@@ -4,4 +4,4 @@
 
 Technoloigies: Meets Progressive Web App criteria, preserves data in IndexDB, using npm package idp.
 
-Deployed Application: https://dashboard.heroku.com/apps/text-editor1
+Deployed Application: https://text-editor1.herokuapp.com/
